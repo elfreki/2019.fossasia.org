@@ -35,7 +35,7 @@
 .tweets-feed {
   color: #FFFFFF;
   line-height: 25px;
-  font-size: 20px;
+  font-size: 15px;
   transition: opacity 0.2s linear;
   margin-bottom: 20px;
   height: 250px;
@@ -52,7 +52,7 @@
 }
 
 .tweets-feed .dateTweeted {
-  font-size: 15px;
+  font-size: 10px;
   display: block;
   text-align: center;
   margin: 10px auto;
